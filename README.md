@@ -1,4 +1,7 @@
+---
 layout: base
+title: About
+---
 
 # Exeter Acoustic Research
 
