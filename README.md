@@ -1,3 +1,5 @@
+layout: base
+
 # Exeter Acoustic Research
 
 Welcome to Exeter Acoustic Research, an experimental physics laboratory at the University of Exeter.
@@ -6,3 +8,5 @@ Welcome to Exeter Acoustic Research, an experimental physics laboratory at the U
 - [David Horsell](http://emps.exeter.ac.uk/physics-astronomy/staff/dwhorsel)
 - [David Tatnell](https://emps.exeter.ac.uk/physics-astronomy/staff/dt356)
 - [Will Borrows](http://emps.exeter.ac.uk/physics-astronomy/staff/wb258)
+
+$$ \begin{equation} \label{label} \alpha \end{equation} $$
