@@ -1,6 +1,6 @@
 ---
 layout: base
-title: About
+title: Laboratory
 ---
 
 # Exeter Acoustic Research
