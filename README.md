@@ -7,4 +7,6 @@ Welcome to Exeter Acoustic Research, an experimental physics laboratory at the U
 - [David Tatnell](https://emps.exeter.ac.uk/physics-astronomy/staff/dt356)
 - [Will Borrows](http://emps.exeter.ac.uk/physics-astronomy/staff/wb258)
 
-$$ \begin{equation} \label{label} \alpha \end{equation} $$
+## Thermoacoustics papers:
+
+- M. S. Heath and D. W. Horsell, '[Multi-frequency sound production and mixing in graphene](https://doi.org/10.1038/s41598-017-01467-z)', Scientific Reports **7**, 1363 (2017)
