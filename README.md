@@ -1,4 +1,4 @@
-# Exeter Acoustic Research
+<h1><img src="assets/img/ear_logo.png" width="2.6%">Exeter Acoustic Research</h1>
 ---
 
 Welcome to Exeter Acoustic Research, an experimental physics laboratory at the University of Exeter.
